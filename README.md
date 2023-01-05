@@ -1,7 +1,7 @@
 ### I'm Robin, a researcher using molecular simulation
 
 - 🔭 I’m currently working on projects on how to run, process, and visualise large datasets
-- 🌱 I’m currently working on using Python for handling complex data and perform machine learning
+- 🌱 I’m currently working on using Python for handling complex data and performing machine learning
 - 👯 Check out some of publications here: https://scholar.google.com/citations?user=LO3szKgAAAAJ&hl=en
 - 📫 How to reach me: DM me on twitter @RobinCorey1
 
