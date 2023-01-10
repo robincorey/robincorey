@@ -1,7 +1,8 @@
-### I'm Robin, a researcher using molecular simulation
+### I'm Robin, a postdoctoral researcher using molecular simulation to understand the dynamics and interactions of biomolecules
 
-- 🔭 I’m currently working on projects on how to run, process, and visualise large datasets
-- 🌱 I’m currently working on using Python for handling complex data and performing machine learning
+- 🔭 I’m working on several coding projects focused on how to run, process, and visualise large datasets
+- 🌱 I’m currently learning better methods for using Python to handle and visualise complex data
+- 🤔 I'm especially interested in using different types of machine learning to better process our simulation data
 - 👯 Check out some of publications here: https://scholar.google.com/citations?user=LO3szKgAAAAJ&hl=en
 - 📫 How to reach me: DM me on twitter @RobinCorey1
 
